@@ -1,1 +1,1 @@
-# TP2-Analyse-et-traitement-des-donn-es-num-riques-
+# TP2-Analyse-et-traitement-des-données numériques-
